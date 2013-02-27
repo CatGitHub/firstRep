@@ -4,6 +4,6 @@ public class HelloGitWorld {
 		System.out.println("hello");
 		System.out.println("the first changes");
 		System.out.println("the second changes");
-		System.out.println("alpha");
+		System.out.println("alpha"); 
 	}
 }
